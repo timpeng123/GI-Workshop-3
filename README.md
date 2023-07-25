@@ -1,7 +1,7 @@
 **The University of Melbourne**
 # COMP30019 – Graphics and Interaction
 
-## Workshop 3: Transformations
+## Workshop 3: Transformations and User Input
 
 <p align="center">
   <a href="https://comp30019.github.io/Workshop-3-Solution/" alt="Play Online">
@@ -67,7 +67,7 @@ action, e.g., `displacement = velocity * time`. It might be worth getting out yo
 > **Note** <br>
 > Use of the `FixedUpdate()` method is another approach for addressing this problem,
 > by allowing us to separate "physics" updates from regular frame updates. This will
-> be discussed in more detail when we look at the Unity physics engine in a few weeks' time.
+> be discussed in more detail when we look at the Unity physics engine in future workshops.
 
 #### 2. Spin using "total" time instead of "delta" time
 
