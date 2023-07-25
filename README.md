@@ -1,10 +1,15 @@
 **The University of Melbourne**
 # COMP30019 – Graphics and Interaction
 
-## Workshop 4
+## Workshop 3: Transformations
 
+<p align="center">
+  <a href="https://comp30019.github.io/Workshop-3-Solution/" alt="Play Online">
+    <img src="https://img.shields.io/static/v1?label=Play%20Solution&message=comp30019.github.io/Workshop-3-Solution/&color=blue&logo=unity" />
+  </a>
+</p>
 
-# Introduction:
+### Introduction
 
 In this workshop you will be learning how to apply linear transformations to objects, 
 as well as how to utilise basic user input to control game objects. You'll also be exploring
@@ -21,7 +26,7 @@ There are two files present in the assets folder:
 > basic theoretical knowledge is still important to use it correctly. Sometimes we 
 > also still need to control game objects "manually".
 
-### Tasks:
+### Tasks
 
 #### 1. Scripting lifecycle basics
 
@@ -29,7 +34,7 @@ Open `MainScene.unity` in Unity. Press the ‘Play’ button and take a look at 
 
 In particular, note the use of the `Update()` method to incrementally rotate the cube.
 This is called by the Unity engine on every frame of the game, _before_ rendering of the scene
-is performed. In previous workshops you've already seen the `Start()` method, 
+is performed. You've already seen the `Start()` method, 
 which is called _once_ before the first `Update()` call. Often this is
 used for initialisation of variables and/or initial loading of resources
 required by the respective component throughout its lifespan. It's best to keep logic
