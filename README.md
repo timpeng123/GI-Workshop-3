@@ -4,12 +4,16 @@
 ## Workshop 3: Transformations and User Input
 
 <p align="center">
+  <img src="Gifs/preview.gif">
+</p>
+
+<p align="center">
   <a href="https://comp30019.github.io/Workshop-3-Solution/" alt="Play Online">
     <img src="https://img.shields.io/static/v1?label=Play%20Solution&message=comp30019.github.io/Workshop-3-Solution/&color=blue&logo=unity" />
   </a>
 </p>
 
-### Introduction
+### Overview
 
 In this workshop you will be learning how to apply linear transformations to objects, 
 as well as how to utilise basic user input to control game objects. You'll also be exploring
